@@ -1,9 +1,6 @@
 # OpenCV-Yolo3-Example
 
-## Based on Elie Brosset's medium story 
-https://medium.com/analytics-vidhya/recognizing-objects-in-images-using-python-and-yolov3-you-only-look-once-ce1d2a08d54c
-### I introduced some very small changes
-
+## This is my "experimental" branch
 
 ## Dependencies
 
@@ -16,6 +13,13 @@ https://medium.com/analytics-vidhya/recognizing-objects-in-images-using-python-a
 - CFG file at: https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
 - Coco labels at: https://github.com/pjreddie/darknet/blob/master/data/coco.names
 - Weights at: https://pjreddie.com/media/files/yolov3.weights
+
+## Updates:
+- fixed color issues
+- simplified paths
+- added file export
+- font/color changes
+- new examples
 
 ## Example
 ![Results](result.png)
