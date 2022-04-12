@@ -1,3 +1,4 @@
+# This repository is synced
 # OpenCV-Yolo3-Example
 
 ## Based on Elie Brosset's medium story 
